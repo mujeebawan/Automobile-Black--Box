@@ -136,7 +136,7 @@ This project is licensed under the **MIT License** – feel free to use and impr
 
 ## 📞 Contact
 📩 **Email:** mujeebciit72@gmail.com  
-📍 **University:** Comsats University Islamabad, Wah Campus  
+
 """
 
 ---
