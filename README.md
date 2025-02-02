@@ -110,14 +110,15 @@ The system responds to **predefined SMS commands** from registered numbers:
 
 ![Enternal Circuit after Connection](./assets/openbox.png)  
 
-(Enternal Circuit after Connection)  
+         (Enternal Circuit after Connection)  
 
 ![Front View of Device](./assets/frontview.png)  
 
-(Front View of Device)  
+           (Front View of Device)  
+
 ![Response on Cell Phone](./assets/Mobile.png)  
 
-(Front View of Device)  
+          (Response on Cell Phone)  
 
 ---
 
