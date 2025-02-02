@@ -2,4 +2,4 @@
 
 **A Smart Tracking & Data Logging System for Vehicles**
 
-![Black Box Architecture](./assets/BlockDiagram.png) 
+![Black Box Architecture](./assets/BlockDiagram.jpg) 
