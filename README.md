@@ -65,10 +65,12 @@ Before running the project, ensure you have:
 Refer to the circuit diagram below:
 
 ![Circuit 1](./assets/CircuitDiagram1.png)
-(Circuit 1)
+
+(Circuit 1)  
 
 ![Circuit 2](./assets/CircuitDiagram2.png)
-(Circuit 2)
+
+(Circuit 2)  
 
 ---
 
@@ -106,12 +108,16 @@ The system responds to **predefined SMS commands** from registered numbers:
 
 ## 🛠 Hardware Images
 
-![Enternal Circuit after Connection](./assets/openbox.png)
-(Enternal Circuit after Connection)
-![Front View of Device](./assets/frontview.png)
-(Front View of Device)
-![Response on Cell Phone](./assets/Mobile.png)
-(Front View of Device)
+![Enternal Circuit after Connection](./assets/openbox.png)  
+
+(Enternal Circuit after Connection)  
+
+![Front View of Device](./assets/frontview.png)  
+
+(Front View of Device)  
+![Response on Cell Phone](./assets/Mobile.png)  
+
+(Front View of Device)  
 
 ---
 
