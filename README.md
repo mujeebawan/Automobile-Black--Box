@@ -3,7 +3,7 @@
 **A Smart Tracking & Data Logging System for Vehicles**
 
 ![Black Box Architecture](./assets/BlockDiagram.jpg) 
-# Creating an editable README.md file with the provided content  
+
 
 ## 🔍 Introduction
 The **Automobile Black Box** functions similarly to an aircraft black box, designed to track, log, and report vehicle-related data, including:
